@@ -4,13 +4,6 @@ running.  Bear with me.
 They're for Eclipse version 2019-03.  They will probably vary for
 older versions of Eclipse but hopefully not too much.
 
-Keep in mind I actually don't know very much about Eclipse and I had
-to spend quite a bit of time going through this process myself to make
-sure I could give you instructions that would work.
-
-Because you're on holiday tomorrow and I'm getting cataract surgery
-Thursday, we'll talk Friday if you have any questions.
-
 I expect you to read all of the instructions below, and read them
 carefully.  You may skip to them now and read the rest of this later.
 
